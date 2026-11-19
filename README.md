@@ -6,10 +6,10 @@ I'm a postdoc research at Institut Polytechnique de Paris, working on transport 
 
 ## 🚀 Main projects
 
-| Organization | Description |
+| Name | Description |
 |---|---|
 | [**Metropolis2**](https://github.com/Metropolis2) | Repositories for the METROPOLIS2 dynamic transport simulator |
-| [**MobiSurvStd**](https://github.com/MobiSurvStd) | Python library to standardize and analyze French mobility surveys |
+| [**Nemobi**](https://github.com/LucasJavaudin/Nemobi) | [Formerly MobiSurvStd] Python library to standardize and analyze French mobility surveys |
 
 ---
 
